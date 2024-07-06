@@ -36,8 +36,24 @@ Ein starkes und zuverlässiges Plugin, das all deine wichtigen Spielerdaten auf 
 
 ## Config.yml
 
-```yml
-blablabla
+```yaml
+# Datenbank Konfiguration für das PlayerSync Plugin.
+# 
+# Das Plugin sorgt dafür, dass alle wichtigen Daten des Spielers
+# wie z.B. das Inventar, EC (Enderchest), Level, Spielmodus usw.
+# in einer Datenbank gespeichert werden.
+
+database:
+    # [PFLICHT] Datenbank Verbindungs-Daten
+    host: "localhost"
+    port: "3306"
+    database: "player_sync"
+    username: "root"
+    password: "abc"
+
+    # [OPTIONAL] SSL in der MySQL-Verbindung (Standardmäßig false)
+    useSSL: false
+
 ```
 ---
 
