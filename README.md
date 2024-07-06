@@ -1,16 +1,10 @@
 [Modrinth](https://modrinth.com/mod/playersync) |
-[CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/playersync) |
+[Website](https://einfxchpingu.net) |
 [Discord](https://discord.gg/playersync) |
-[Wiki](https://modrepo.de/minecraft/playersync/wiki) |
-[FAQ](https://modrepo.de/minecraft/playersync/faq) |
-[Credits](https://modrepo.de/minecraft/playersync/credits) |
-[API](https://modrepo.de/minecraft/playersync/api)
 
 # PlayerSync
 
 Ein starkes und zuverlässiges Plugin, das all deine wichtigen Spielerdaten auf deinem Minecraft-Server speichert und synchronisiert. Mit PlayerSync bleiben Inventare, Endertruhen, Erfahrungslevel, Leben, Hunger, Spielmodi und mehr deiner Spieler immer sicher und verfügbar, egal wann und wo sie spielen.
-
-:warning: **HINWEIS:** Dieses Plugin erfordert eine spezielle Einrichtung auf dem Server, um zu funktionieren. Bitte lies die [Wiki](https://modrepo.de/minecraft/playersync/wiki/setup) für mehr Informationen.
 
 <p align="center">
     <a href="https://discord.gg/playersync">
@@ -20,11 +14,6 @@ Ein starkes und zuverlässiges Plugin, das all deine wichtigen Spielerdaten auf 
     <i>Tritt unserem Discord bei, wenn du Fragen hast!</i>
 </p>
 
-## Downloads
-
-- [Spigot](https://modrinth.com/plugin/playersync/versions?l=spigot)
-- [Paper](https://modrinth.com/plugin/playersync/versions?l=paper)
-
 ## Features
 
 - Inventar-Speicherung
@@ -33,18 +22,6 @@ Ein starkes und zuverlässiges Plugin, das all deine wichtigen Spielerdaten auf 
 - Gesundheit und Hunger
 - Spielmodus und Effekte
 - Konfigurierbare MySQL-Verbindung mit SSL-Option
-
-## Icons
-
-|                Icon                 | Beschreibung                                           |
-|:-----------------------------------:|-------------------------------------------------------|
-| ![](https://i.imgur.com/FZD3ohs.png) | Spieler Inventar                                       |
-| ![](https://i.imgur.com/BJt2YAL.png) | Endertruhe                                             |
-| ![](https://i.imgur.com/lmN6ydy.png) | Erfahrung                                              |
-| ![](https://i.imgur.com/Felj73b.png) | Gesundheit                                             |
-| ![](https://i.imgur.com/dI3pfmA.png) | Hunger                                                 |
-| ![](https://i.imgur.com/MZRBqra.png) | Spielmodus                                             |
-| ![](https://i.imgur.com/Lv3K6tC.png) | Effekte                                                |
 
 ## Installation
 
