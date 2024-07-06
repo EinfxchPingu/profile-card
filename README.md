@@ -34,6 +34,11 @@ Ein starkes und zuverlässiges Plugin, das all deine wichtigen Spielerdaten auf 
   <p>Theoretisch könntest du das Plugin auf alle möglichen Server packen, auch auf welche, die nicht in deinem Netzwerk sind, und du hättest trotzdem überall deinen Spielstand.</p>
 </details>
 
+## Config.yml
+
+```yml
+blablabla
+```
 ---
 
 **PlayerSync** ist dein unverzichtbarer Helfer, um sicherzustellen, dass die Spielerfahrung auf deinem Minecraft-Server immer nahtlos und konsistent bleibt. Lade es jetzt herunter und erlebe sorgenfreies Spielen!
